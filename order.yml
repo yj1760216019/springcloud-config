@@ -4,7 +4,7 @@ spring:
     name: configclient
 # 指定端口号    
 server:
-  port:7015
+  port: 7015
 
 # 指定注册中心
 eureka:
